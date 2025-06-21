@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chetan-bisht
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ & data structures and algorithms
+- 🌱 I’m currently learning javascript & data structures and algorithms
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: C++ is better than python
+- 💀 Fun Fact: "It works on my machine" has ruined more friendships than UNO.
 
 <!---
 chetan-bisht/chetan-bisht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
